@@ -31,3 +31,8 @@ Este proyecto es una **excelente práctica para desarrollar habilidades en JavaS
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
+
+
+## 🎥 Video explicativo
+
+[Ver video explicativo en LinkedIn](https://www.linkedin.com/posts/elisama-osuna_desarrollo-programaciaejn-proyectopersonal-activity-7312132894062252032-LwbC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFelZr8B2jAyBwLyGJkzYRZKtEwj81OpflE)
